@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\code\PatternLockView-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca1ee4c30180cd843a4f90f7f698a793dc4266ec">
+        <dex dex="C:\code\PatternLockView-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_fd8525ffeee7721278ebf92c1aa68ed6f1a496f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\code\PatternLockView-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\code\PatternLockView-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_8263d09c717e7ce79795bf95dcc1ccdc86e7f7f3\classes.dex" />
+    </item>
+
+</items>

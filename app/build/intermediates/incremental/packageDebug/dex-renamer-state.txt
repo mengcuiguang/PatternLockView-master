@@ -1,0 +1,7 @@
+#Mon Jun 26 10:12:29 CST 2017
+base.0=C\:\\code\\PatternLockView-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_fd8525ffeee7721278ebf92c1aa68ed6f1a496f2
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\code\\PatternLockView-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_8263d09c717e7ce79795bf95dcc1ccdc86e7f7f3\\classes.dex
+base.1=C\:\\code\\PatternLockView-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_8263d09c717e7ce79795bf95dcc1ccdc86e7f7f3
+file.0=C\:\\code\\PatternLockView-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_fd8525ffeee7721278ebf92c1aa68ed6f1a496f2\\classes.dex
